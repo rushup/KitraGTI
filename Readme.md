@@ -4,7 +4,7 @@
 
 ### Documents and guides
 
-- TODO
+- [Wiki](https://github.com/rushup/KitraGTI/wiki)
 
 ### Useful official repositories
 
